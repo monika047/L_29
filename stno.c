@@ -5,7 +5,7 @@ int main() {
   printf("Enter third number:)";
 
 
-  scanf("%lf", &first);
+  scanf("%lf", &FIRST);
   printf("Enter second number: ");
   scanf("%lf", &second);
 temp = first;
