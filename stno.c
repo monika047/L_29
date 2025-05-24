@@ -12,4 +12,5 @@ temp = first;
 
   first = second;
   second = temp;
+  third =temp:
 
